@@ -1,6 +1,7 @@
 # Distributed Source Code Management with git
 
 An introduction to distributed source code management with git.
+Ralf was here
 
 ![git Logo](files/Git-logo.png)
 
